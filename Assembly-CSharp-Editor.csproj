@@ -54,6 +54,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Cartoon Heroes\Scripts\SetCharacter\Editor\SetCharacterEditor.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\Editor\Tetrahedron.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\Editor\RuntimeColorChangerEditor.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\Editor\RangeEditor.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\Editor\TextureCounter.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

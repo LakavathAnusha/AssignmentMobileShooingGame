@@ -54,6 +54,47 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Cartoon Heroes\Scripts\SetCharacter\SetCharacter.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\ShipWeapons.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\SpaceStation.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\Shot.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\ShipTarget.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\Boundary.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\Indicator.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\AsteroidSpawner.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\Asteroid.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\Singleton.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\InputManager.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\DamageOnCollide.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\IndicatorManager.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\DamageTaking.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\Timer.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\VirtualJoystick.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\SmoothFollow.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\ShipThrust.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Scripts\ShipSteering.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\RangeTest.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\Range.cs" />
+    <Compile Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\RuntimeColorChanger.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
+    <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
+    <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
+    <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Audio\Sources.txt" />
+    <None Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\SimpleUnlitShader.shader" />
+    <None Include="Assets\ToonSoldiers_demo\ToonSoldiers_demo.txt" />
+    <None Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\Assets\SimpleSurfaceShader.shader" />
+    <None Include="Assets\MobileGameDevWithUnity1stEd-master\Editor Extensions\ProjectSettings\ProjectVersion.txt" />
+    <None Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Fonts\at-night\OFL.txt" />
+    <None Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\Assets\Fonts\at-night\readme.txt" />
+    <None Include="Assets\MobileGameDevWithUnity1stEd-master\3D-Game\ProjectSettings\ProjectVersion.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
